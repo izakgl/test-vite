@@ -418,10 +418,10 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@next-font/plugin-vite@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@next-font/plugin-vite/-/plugin-vite-1.2.1.tgz#ecea47fef467b8a1be21e71d2ce384140dcd0035"
-  integrity sha512-RwHwuSbHNtuJVYSolG/abne0o9ex8Z+FUq/8UjVJa75Q0XQqtXo2rvnn4UIFedNx8XripB4jdXwrE7tHxw56Hw==
+"@next-font/plugin-vite@1.2.2-canary.0":
+  version "1.2.2-canary.0"
+  resolved "https://registry.yarnpkg.com/@next-font/plugin-vite/-/plugin-vite-1.2.2-canary.0.tgz#9e3e48a0ca53e061f2444f4309b0a1da51b81ccf"
+  integrity sha512-z+NphmpFu/onzq1Kyp1v4UltOpDuPfdUaxtsNG8iVoKHPoneuh73PmXLz5GK52Ay8hkiXzP1Yk24YafBYG8r0w==
   dependencies:
     postcss "^8.5.6"
 
