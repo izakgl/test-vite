@@ -1,9 +1,9 @@
-import { fontInterr } from "./inter";
+import { fontInter } from "./inter";
 
 export const Fonts = () => (
   <style>{`
     :root {
-      --font-primary: ${fontInterr.style?.fontFamily ?? "Inter"};
+      --font-primary: ${fontInter.style?.fontFamily ?? "Inter"};
     }
   `}</style>
 );
